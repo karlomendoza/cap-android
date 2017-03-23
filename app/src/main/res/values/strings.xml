@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="orderDate">Date</string>
+    <string name="orderNumber">Order Number</string>
+    <string name="orderCustomer">Customer</string>
+    <string name="orderTotal">Total</string>
+    <string name="pieChartHeaderAmount">Amount of product sold</string>
+    <string name="pieChartHeaderEarnings">Earnings by product</string>
+    <string name="changeGraphs">Change</string>
+    <string name="title_activity_charts">Charts</string>
+    <string name="title_activity_main">Invoices</string>
+    <string name="action_go_graphs">Go to graphs</string>
+</resources>

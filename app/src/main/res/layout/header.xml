@@ -1,0 +1,36 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/headerOrderDate"
+        android:text="@string/orderDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="25"
+        />
+
+    <TextView
+        android:id="@+id/headerOrderNumber"
+        android:text="@string/orderNumber"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="25" />
+
+    <TextView
+        android:id="@+id/headerOrderCustomer"
+        android:text="@string/orderCustomer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="25"/>
+
+    <TextView
+        android:id="@+id/headerOrderTotal"
+        android:text="@string/orderTotal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="25"/>
+</LinearLayout>
